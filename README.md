@@ -6,8 +6,8 @@ I enjoy exploring new technologies, learning languages, and finding creative sol
 ---
 
 ### 📊 GitHub Stats
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoReck&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoReck&layout=compact&theme=tokyonight)
 
 ---
 
@@ -37,8 +37,8 @@ I enjoy exploring new technologies, learning languages, and finding creative sol
 ---
 
 ### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-recktenwald)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardorecktenwald11@gmail.com)
 
 ---
 
